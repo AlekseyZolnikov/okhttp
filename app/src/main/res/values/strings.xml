@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OkHttp</string>
+    <string name="search_go">GO</string>
+    <string name="hint_site_address">Введите адрес сайта</string>
 </resources>
